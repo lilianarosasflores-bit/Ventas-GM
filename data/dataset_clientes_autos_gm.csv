@@ -1,0 +1,241 @@
+cliente_id,edad,genero,ciudad,ingreso_mensual,fecha_alta,visitas_web_30d,productos_vistos_30d,carritos_30d,compras_12m,gasto_total_12m,dias_desde_ultima_compra,categoria_preferida,canal_origen,campanas_recibidas_30d,emails_abiertos_30d,clics_campanas_30d,uso_cupon_12m,descuento_promedio,abandono_carrito_30d,monto_ultima_compra,compro_ultima_campana
+cl-00001,56,masculino,queretaro,7416.67,2025-06-26,22,4,1,0,0.0,,pickup electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00002,38,femenino,chihuahua,7666.67,2025-05-04,18,4,1,0,0.0,,suv electrica,email,4,3,1,0,0.0,1,,0
+cl-00003,34,femenino,estado de mexico,6500.0,2025-04-14,16,3,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00004,44,masculino,estado de mexico,10833.33,2025-08-31,19,4,0,1,65000.0,122.0,suv electrica,meta ads,5,0,0,0,0.0,0,65000.0,1
+cl-00005,46,masculino,queretaro,6500.0,2025-11-14,22,4,1,1,95000.0,47.0,pickup electrica,email,5,4,2,0,0.0,0,95000.0,1
+cl-00006,57,masculino,estado de mexico,6750.0,2025-10-14,11,2,1,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00007,45,masculino,estado de mexico,8583.33,2025-04-18,8,2,1,0,0.0,,pickup electrica,email,3,1,1,0,0.0,0,,0
+cl-00008,64,femenino,queretaro,7583.33,2025-11-07,12,2,1,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00009,51,femenino,chihuahua,6333.33,2025-03-20,10,2,1,1,65000.0,286.0,suv electrica,organico,3,0,0,0,0.0,0,65000.0,1
+cl-00010,46,no especificado,puebla,9750.0,2025-09-21,16,3,1,0,0.0,,suv electrica,email,4,2,1,0,0.0,1,,0
+cl-00011,25,masculino,sonora,8166.67,2025-04-20,12,2,1,0,0.0,,suv electrica,email,3,2,1,0,0.0,0,,0
+cl-00012,31,masculino,sonora,7500.0,2025-04-18,18,4,1,0,0.0,,pickup electrica,directo,4,0,0,0,0.0,1,,0
+cl-00013,44,femenino,ciudad de mexico,13833.33,2025-06-08,23,5,1,0,0.0,,pickup electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00014,45,femenino,queretaro,12666.67,2025-12-28,14,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00015,66,femenino,jalisco,8083.33,2025-03-20,18,4,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00016,61,masculino,ciudad de mexico,8916.67,2025-07-23,14,3,1,0,0.0,,suv electrica,meta ads,4,0,0,0,0.0,1,,0
+cl-00017,48,masculino,sonora,8666.67,2025-10-17,16,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00018,58,femenino,chihuahua,11166.67,2025-03-29,18,4,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00019,30,femenino,chihuahua,8250.0,2025-10-19,13,3,1,1,95000.0,73.0,pickup electrica,directo,4,0,0,0,0.0,0,95000.0,1
+cl-00020,26,masculino,sonora,8250.0,2025-01-19,16,3,1,1,45000.0,346.0,suv electrica,directo,4,0,0,0,0.0,0,45000.0,1
+cl-00021,42,femenino,estado de mexico,5333.33,2025-12-21,17,3,1,0,0.0,,pickup electrica,email,4,3,1,0,0.0,1,,0
+cl-00022,54,femenino,queretaro,10833.33,2025-11-04,16,3,1,0,0.0,,suv electrica,email,4,3,1,0,0.0,1,,0
+cl-00023,40,femenino,guanajuato,10000.0,2025-12-30,24,5,1,1,65000.0,1.0,suv electrica,directo,5,0,0,0,0.0,0,65000.0,1
+cl-00024,38,femenino,ciudad de mexico,8666.67,2025-03-20,11,2,0,0,0.0,,suv electrica,organico,3,0,0,0,0.0,0,,0
+cl-00025,36,femenino,chihuahua,9583.33,2025-05-28,16,3,0,0,0.0,,pickup electrica,directo,4,0,0,0,0.0,1,,0
+cl-00026,51,masculino,puebla,3583.33,2025-11-25,21,4,1,0,0.0,,pickup electrica,directo,5,0,0,0,0.0,1,,0
+cl-00027,26,masculino,jalisco,6166.67,2025-09-06,18,4,1,1,65000.0,116.0,suv electrica,meta ads,4,0,0,0,0.0,0,65000.0,1
+cl-00028,25,masculino,sonora,8083.33,2025-01-25,12,2,0,0,0.0,,suv electrica,organico,3,0,0,0,0.0,0,,0
+cl-00029,41,femenino,guanajuato,3833.33,2025-05-30,22,4,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00030,57,femenino,ciudad de mexico,12750.0,2025-09-08,6,1,0,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00031,27,masculino,chihuahua,11166.67,2025-08-03,17,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00032,30,femenino,jalisco,6166.67,2025-01-02,10,2,0,0,0.0,,suv electrica,organico,3,0,0,0,0.0,0,,0
+cl-00033,66,masculino,jalisco,11000.0,2025-07-19,25,5,1,1,65000.0,165.0,suv electrica,meta ads,5,0,0,0,0.0,0,65000.0,1
+cl-00034,58,masculino,guanajuato,14833.33,2025-07-25,22,4,1,1,95000.0,159.0,pickup electrica,directo,5,0,0,0,0.0,0,95000.0,1
+cl-00035,33,masculino,nuevo leon,7000.0,2025-06-11,18,4,1,0,0.0,,pickup electrica,directo,4,0,0,0,0.0,1,,0
+cl-00036,63,masculino,nuevo leon,9583.33,2025-05-26,17,3,1,1,45000.0,219.0,suv electrica,directo,4,0,0,0,0.0,0,45000.0,1
+cl-00037,49,masculino,coahuila,5416.67,2025-11-01,14,3,1,0,0.0,,suv electrica,organico,4,0,0,0,0.0,1,,0
+cl-00038,49,masculino,ciudad de mexico,12750.0,2025-11-25,18,4,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00039,25,masculino,chihuahua,7166.67,2025-04-26,14,3,0,0,0.0,,suv electrica,organico,4,0,0,0,0.0,1,,0
+cl-00040,67,masculino,estado de mexico,6416.67,2025-01-21,18,4,0,0,0.0,,suv electrica,email,4,3,1,0,0.0,1,,0
+cl-00041,30,femenino,ciudad de mexico,11750.0,2025-10-02,21,4,1,1,95000.0,90.0,pickup electrica,directo,5,0,0,0,0.0,0,95000.0,1
+cl-00042,56,femenino,ciudad de mexico,7500.0,2025-02-24,22,4,1,1,95000.0,310.0,pickup electrica,directo,5,0,0,0,0.0,0,95000.0,1
+cl-00043,46,masculino,ciudad de mexico,10833.33,2025-04-16,16,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00044,46,femenino,ciudad de mexico,9916.67,2025-05-25,16,3,1,1,65000.0,220.0,suv electrica,email,4,2,1,0,0.0,0,65000.0,1
+cl-00045,58,masculino,queretaro,3000.0,2025-06-15,18,4,1,1,110000.0,199.0,suv electrica,meta ads,4,0,0,0,0.0,0,110000.0,1
+cl-00046,67,femenino,coahuila,10000.0,2025-06-22,16,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00047,60,femenino,queretaro,9083.33,2025-01-20,21,4,1,1,45000.0,345.0,suv electrica,directo,5,0,0,0,0.0,0,45000.0,1
+cl-00048,62,masculino,nuevo leon,7750.0,2025-01-12,12,2,0,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00049,39,masculino,chihuahua,7083.33,2025-08-05,23,5,1,1,65000.0,148.0,suv electrica,organico,5,0,0,0,0.0,0,65000.0,1
+cl-00050,32,masculino,sonora,10000.0,2025-07-01,12,2,1,0,0.0,,suv electrica,organico,3,0,0,0,0.0,0,,0
+cl-00051,29,masculino,nuevo leon,7500.0,2025-03-07,19,4,1,0,0.0,,suv electrica,organico,5,0,0,0,0.0,1,,0
+cl-00052,45,masculino,queretaro,8333.33,2025-09-14,14,3,0,0,0.0,,pickup electrica,organico,4,0,0,0,0.0,1,,0
+cl-00053,52,femenino,coahuila,13916.67,2025-02-01,25,5,0,0,0.0,,suv electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00054,42,no especificado,coahuila,13333.33,2025-08-13,10,2,1,0,0.0,,suv electrica,email,3,2,1,0,0.0,0,,0
+cl-00055,51,masculino,coahuila,9500.0,2025-06-25,12,2,1,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00056,35,masculino,guanajuato,7000.0,2025-10-11,19,4,1,1,110000.0,81.0,suv electrica,email,5,3,2,0,0.0,0,110000.0,1
+cl-00057,31,masculino,nuevo leon,4833.33,2025-04-27,20,4,1,1,95000.0,248.0,pickup electrica,directo,5,0,0,0,0.0,0,95000.0,1
+cl-00058,27,masculino,nuevo leon,4000.0,2025-03-22,18,4,0,1,45000.0,284.0,suv electrica,email,4,3,1,0,0.0,0,45000.0,1
+cl-00059,60,femenino,nuevo leon,11666.67,2025-02-08,20,4,1,1,65000.0,326.0,suv electrica,organico,5,0,0,0,0.0,0,65000.0,1
+cl-00060,52,masculino,puebla,5250.0,2025-07-05,22,4,1,0,0.0,,suv electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00061,67,femenino,chihuahua,6916.67,2025-04-29,20,4,1,1,45000.0,246.0,suv electrica,directo,5,0,0,0,0.0,0,45000.0,1
+cl-00062,60,masculino,coahuila,4333.33,2025-04-18,16,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00063,33,masculino,sonora,4083.33,2025-11-26,9,2,1,1,95000.0,35.0,pickup electrica,meta ads,3,0,0,0,0.0,0,95000.0,1
+cl-00064,36,masculino,chihuahua,5833.33,2025-01-16,12,2,1,0,0.0,,suv electrica,email,3,2,1,0,0.0,0,,0
+cl-00065,56,femenino,guanajuato,8583.33,2025-12-01,14,3,1,0,0.0,,pickup electrica,organico,4,0,0,0,0.0,1,,0
+cl-00066,48,no especificado,puebla,5500.0,2025-05-11,9,2,1,0,0.0,,suv electrica,email,3,1,1,0,0.0,0,,0
+cl-00067,50,masculino,jalisco,7750.0,2025-12-07,19,4,1,1,45000.0,24.0,suv electrica,directo,5,0,0,0,0.0,0,45000.0,1
+cl-00068,29,masculino,sonora,8666.67,2025-06-30,10,2,0,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00069,49,masculino,puebla,6083.33,2025-12-28,25,5,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00070,40,femenino,sonora,7500.0,2025-09-11,20,4,1,0,0.0,,pickup electrica,email,5,3,2,0,0.0,1,,0
+cl-00071,53,femenino,sonora,14750.0,2025-02-27,21,4,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00072,47,masculino,puebla,8833.33,2025-12-05,20,4,0,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00073,43,femenino,estado de mexico,11833.33,2025-01-06,10,2,1,1,45000.0,359.0,suv electrica,directo,3,0,0,0,0.0,0,45000.0,1
+cl-00074,36,femenino,sonora,5250.0,2025-04-24,10,2,1,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00075,50,femenino,puebla,8833.33,2025-05-06,20,4,1,1,110000.0,239.0,suv electrica,directo,5,0,0,0,0.0,0,110000.0,1
+cl-00076,53,masculino,coahuila,8000.0,2025-12-31,19,4,0,1,110000.0,0.0,suv electrica,meta ads,5,0,0,0,0.0,0,110000.0,1
+cl-00077,59,masculino,queretaro,10166.67,2025-04-29,17,3,1,1,65000.0,246.0,suv electrica,meta ads,4,0,0,0,0.0,0,65000.0,1
+cl-00078,37,masculino,nuevo leon,12166.67,2025-02-15,18,4,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00079,68,masculino,chihuahua,10666.67,2025-12-21,20,4,0,0,0.0,,pickup electrica,email,5,3,2,0,0.0,1,,0
+cl-00080,30,femenino,jalisco,4250.0,2025-10-03,19,4,1,0,0.0,,suv electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00081,67,no especificado,chihuahua,3583.33,2025-07-14,25,5,1,1,45000.0,170.0,suv electrica,directo,5,0,0,0,0.0,0,45000.0,1
+cl-00082,57,masculino,guanajuato,4333.33,2025-10-09,17,3,1,1,55000.0,83.0,suv electrica,email,4,3,1,0,0.0,0,55000.0,1
+cl-00083,39,masculino,jalisco,7750.0,2025-03-08,21,4,1,1,45000.0,298.0,suv electrica,email,5,3,2,0,0.0,0,45000.0,1
+cl-00084,57,femenino,jalisco,8916.67,2025-11-20,13,3,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00085,54,femenino,ciudad de mexico,10333.33,2025-12-29,14,3,1,0,0.0,,suv electrica,meta ads,4,0,0,0,0.0,1,,0
+cl-00086,48,no especificado,chihuahua,11083.33,2025-09-08,11,2,1,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00087,50,masculino,jalisco,4250.0,2025-06-19,16,3,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00088,66,masculino,coahuila,9083.33,2025-03-06,15,3,0,0,0.0,,suv electrica,meta ads,4,0,0,0,0.0,1,,0
+cl-00089,57,no especificado,ciudad de mexico,6916.67,2025-04-26,18,4,1,1,95000.0,249.0,pickup electrica,directo,4,0,0,0,0.0,0,95000.0,1
+cl-00090,63,femenino,queretaro,8250.0,2025-04-18,15,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00091,49,masculino,estado de mexico,8000.0,2025-01-29,14,3,1,1,45000.0,336.0,suv electrica,directo,4,0,0,0,0.0,0,45000.0,1
+cl-00092,49,masculino,ciudad de mexico,12083.33,2025-01-29,20,4,1,0,0.0,,suv electrica,organico,5,0,0,0,0.0,1,,0
+cl-00093,56,masculino,sonora,13666.67,2025-01-17,17,3,1,1,110000.0,348.0,suv electrica,meta ads,4,0,0,0,0.0,0,110000.0,1
+cl-00094,38,masculino,guanajuato,11333.33,2025-02-05,18,4,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00095,66,femenino,sonora,8916.67,2025-02-06,13,3,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00096,27,no especificado,sonora,5583.33,2025-10-26,16,3,1,1,65000.0,66.0,suv electrica,email,4,3,1,0,0.0,0,65000.0,1
+cl-00097,43,femenino,guanajuato,3416.67,2025-07-25,22,4,1,0,0.0,,suv electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00098,66,masculino,nuevo leon,7916.67,2025-05-14,18,4,1,1,55000.0,231.0,suv electrica,email,4,3,1,0,0.0,0,55000.0,1
+cl-00099,48,femenino,ciudad de mexico,10166.67,2025-04-10,18,4,1,0,0.0,,suv electrica,organico,4,0,0,0,0.0,1,,0
+cl-00100,46,masculino,puebla,6416.67,2025-02-10,20,4,1,0,0.0,,pickup electrica,organico,5,0,0,0,0.0,1,,0
+cl-00101,63,femenino,queretaro,11083.33,2025-07-02,9,2,1,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00102,43,no especificado,puebla,9666.67,2025-09-03,6,1,1,0,0.0,,suv electrica,email,2,1,0,0,0.0,0,,0
+cl-00103,42,masculino,nuevo leon,4250.0,2025-06-10,20,4,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00104,30,masculino,sonora,4750.0,2025-08-04,10,2,1,0,0.0,,pickup electrica,meta ads,3,0,0,0,0.0,0,,0
+cl-00105,51,masculino,chihuahua,8333.33,2025-01-06,17,3,1,1,95000.0,359.0,pickup electrica,directo,4,0,0,0,0.0,0,95000.0,1
+cl-00106,64,femenino,sonora,7416.67,2025-03-31,20,4,1,0,0.0,,suv electrica,email,5,3,2,0,0.0,1,,0
+cl-00107,43,femenino,queretaro,14166.67,2025-07-17,17,3,1,1,95000.0,167.0,pickup electrica,email,4,3,1,0,0.0,0,95000.0,1
+cl-00108,33,masculino,coahuila,5833.33,2025-02-22,17,3,1,0,0.0,,pickup electrica,directo,4,0,0,0,0.0,1,,0
+cl-00109,50,masculino,queretaro,7083.33,2025-01-11,18,4,1,1,45000.0,354.0,suv electrica,directo,4,0,0,0,0.0,0,45000.0,1
+cl-00110,56,femenino,nuevo leon,6833.33,2025-11-29,13,3,0,0,0.0,,suv electrica,organico,4,0,0,0,0.0,1,,0
+cl-00111,52,femenino,chihuahua,4583.33,2025-06-17,21,4,1,1,55000.0,197.0,suv electrica,organico,5,0,0,0,0.0,0,55000.0,1
+cl-00112,58,femenino,puebla,9083.33,2025-08-23,12,2,1,1,110000.0,130.0,suv electrica,organico,3,0,0,0,0.0,0,110000.0,1
+cl-00113,31,masculino,guanajuato,7583.33,2025-07-30,19,4,1,1,95000.0,154.0,pickup electrica,directo,5,0,0,0,0.0,0,95000.0,1
+cl-00114,58,no especificado,estado de mexico,7833.33,2025-05-01,10,2,0,1,65000.0,244.0,suv electrica,directo,3,0,0,0,0.0,0,65000.0,1
+cl-00115,33,masculino,sonora,11250.0,2025-12-13,21,4,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00116,67,masculino,jalisco,5750.0,2025-12-16,3,1,1,0,0.0,,suv electrica,directo,2,0,0,0,0.0,0,,0
+cl-00117,67,masculino,chihuahua,11750.0,2025-10-16,22,4,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00118,54,masculino,ciudad de mexico,6000.0,2025-04-07,8,2,0,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00119,32,femenino,estado de mexico,5916.67,2025-06-08,17,3,1,0,0.0,,suv electrica,email,4,3,1,0,0.0,1,,0
+cl-00120,65,femenino,puebla,6750.0,2025-05-27,15,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00121,48,no especificado,estado de mexico,6000.0,2025-12-17,16,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00122,36,femenino,estado de mexico,9500.0,2025-08-08,13,3,1,0,0.0,,suv electrica,meta ads,4,0,0,0,0.0,1,,0
+cl-00123,45,femenino,coahuila,5083.33,2025-10-13,22,4,1,1,65000.0,79.0,suv electrica,meta ads,5,0,0,0,0.0,0,65000.0,1
+cl-00124,33,masculino,queretaro,6166.67,2025-02-09,22,4,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00125,61,masculino,chihuahua,9583.33,2025-01-16,19,4,1,0,0.0,,suv electrica,organico,4,0,0,0,0.0,1,,0
+cl-00126,41,femenino,sonora,6000.0,2025-04-23,22,4,0,0,0.0,,pickup electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00127,68,femenino,guanajuato,8250.0,2025-01-03,18,4,1,0,0.0,,pickup electrica,email,4,3,1,0,0.0,1,,0
+cl-00128,64,femenino,guanajuato,6250.0,2025-02-24,18,4,0,0,0.0,,suv electrica,meta ads,4,0,0,0,0.0,1,,0
+cl-00129,32,masculino,ciudad de mexico,10750.0,2025-06-04,16,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00130,44,masculino,sonora,4916.67,2025-09-02,15,3,1,1,55000.0,120.0,suv electrica,meta ads,4,0,0,0,0.0,0,55000.0,1
+cl-00131,35,femenino,guanajuato,9500.0,2025-02-11,23,5,1,1,65000.0,323.0,suv electrica,directo,5,0,0,0,0.0,0,65000.0,1
+cl-00132,68,masculino,queretaro,9416.67,2025-01-16,18,4,1,0,0.0,,pickup electrica,organico,4,0,0,0,0.0,1,,0
+cl-00133,68,femenino,coahuila,8833.33,2025-08-07,16,3,0,1,55000.0,146.0,suv electrica,directo,4,0,0,0,0.0,0,55000.0,1
+cl-00134,39,femenino,nuevo leon,5250.0,2025-02-23,13,3,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00135,45,masculino,puebla,4333.33,2025-11-16,15,3,1,1,45000.0,45.0,suv electrica,email,4,2,1,0,0.0,0,45000.0,1
+cl-00136,25,femenino,sonora,8333.33,2025-01-02,16,3,1,1,55000.0,363.0,suv electrica,directo,4,0,0,0,0.0,0,55000.0,1
+cl-00137,54,femenino,queretaro,6833.33,2025-08-26,18,4,1,1,45000.0,127.0,suv electrica,meta ads,4,0,0,0,0.0,0,45000.0,1
+cl-00138,57,masculino,sonora,8500.0,2025-07-19,18,4,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00139,45,masculino,sonora,8500.0,2025-07-18,20,4,1,1,65000.0,166.0,suv electrica,organico,5,0,0,0,0.0,0,65000.0,1
+cl-00140,51,femenino,coahuila,6250.0,2025-10-06,15,3,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00141,55,femenino,sonora,6000.0,2025-12-11,20,4,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00142,35,masculino,estado de mexico,8583.33,2025-11-13,15,3,1,0,0.0,,suv electrica,email,4,2,1,0,0.0,1,,0
+cl-00143,44,masculino,puebla,5666.67,2025-05-03,18,4,1,1,95000.0,242.0,pickup electrica,email,4,3,1,0,0.0,0,95000.0,1
+cl-00144,51,masculino,estado de mexico,8166.67,2025-06-30,8,2,1,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00145,33,masculino,ciudad de mexico,7750.0,2025-10-15,13,3,1,0,0.0,,suv electrica,email,4,2,1,0,0.0,1,,0
+cl-00146,59,femenino,estado de mexico,7250.0,2025-02-08,19,4,1,1,110000.0,326.0,suv electrica,directo,4,0,0,0,0.0,0,110000.0,1
+cl-00147,39,no especificado,nuevo leon,8583.33,2025-02-19,19,4,1,0,0.0,,suv electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00148,68,masculino,jalisco,9333.33,2025-11-18,13,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00149,51,masculino,queretaro,9583.33,2025-03-27,16,3,1,1,55000.0,279.0,suv electrica,directo,4,0,0,0,0.0,0,55000.0,1
+cl-00150,57,femenino,nuevo leon,7833.33,2025-04-09,10,2,1,0,0.0,,suv electrica,organico,3,0,0,0,0.0,0,,0
+cl-00151,43,masculino,jalisco,13250.0,2025-05-17,15,3,0,1,55000.0,228.0,suv electrica,meta ads,4,0,0,0,0.0,0,55000.0,1
+cl-00152,56,masculino,ciudad de mexico,7000.0,2025-05-20,20,4,1,1,65000.0,225.0,suv electrica,meta ads,5,0,0,0,0.0,0,65000.0,1
+cl-00153,27,masculino,nuevo leon,8000.0,2025-09-20,12,2,1,0,0.0,,suv electrica,email,3,2,1,0,0.0,0,,0
+cl-00154,44,femenino,chihuahua,2666.67,2025-12-23,12,2,1,0,0.0,,pickup electrica,organico,3,0,0,0,0.0,0,,0
+cl-00155,61,femenino,queretaro,9666.67,2025-06-01,19,4,1,0,0.0,,suv electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00156,27,femenino,queretaro,7000.0,2025-03-17,17,3,1,0,0.0,,suv electrica,email,4,3,1,0,0.0,1,,0
+cl-00157,65,masculino,nuevo leon,13583.33,2025-02-06,16,3,1,0,0.0,,suv electrica,meta ads,4,0,0,0,0.0,1,,0
+cl-00158,62,femenino,chihuahua,4916.67,2025-07-02,20,4,1,1,110000.0,182.0,suv electrica,meta ads,5,0,0,0,0.0,0,110000.0,1
+cl-00159,46,no especificado,nuevo leon,12166.67,2025-03-05,18,4,0,1,95000.0,301.0,pickup electrica,meta ads,4,0,0,0,0.0,0,95000.0,1
+cl-00160,38,masculino,jalisco,12583.33,2025-03-27,17,3,1,1,55000.0,279.0,suv electrica,organico,4,0,0,0,0.0,0,55000.0,1
+cl-00161,27,femenino,guanajuato,5583.33,2025-06-27,12,2,1,1,65000.0,187.0,suv electrica,organico,3,0,0,0,0.0,0,65000.0,1
+cl-00162,30,masculino,sonora,5916.67,2025-07-27,15,3,1,0,0.0,,suv electrica,email,4,2,1,0,0.0,1,,0
+cl-00163,60,masculino,guanajuato,6750.0,2025-11-09,10,2,1,0,0.0,,suv electrica,meta ads,3,0,0,0,0.0,0,,0
+cl-00164,36,masculino,estado de mexico,5500.0,2025-11-19,21,4,1,1,65000.0,42.0,suv electrica,directo,5,0,0,0,0.0,0,65000.0,1
+cl-00165,36,femenino,coahuila,7166.67,2025-01-30,21,4,1,1,95000.0,335.0,pickup electrica,directo,5,0,0,0,0.0,0,95000.0,1
+cl-00166,61,femenino,sonora,3083.33,2025-01-27,18,4,1,1,55000.0,338.0,suv electrica,directo,4,0,0,0,0.0,0,55000.0,1
+cl-00167,64,femenino,puebla,5750.0,2025-10-11,19,4,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00168,29,no especificado,coahuila,5333.33,2025-03-07,17,3,1,0,0.0,,suv electrica,meta ads,4,0,0,0,0.0,1,,0
+cl-00169,36,femenino,coahuila,9666.67,2025-09-14,22,4,1,1,110000.0,108.0,suv electrica,directo,5,0,0,0,0.0,0,110000.0,1
+cl-00170,29,no especificado,chihuahua,4916.67,2025-11-29,12,2,1,0,0.0,,suv electrica,meta ads,3,0,0,0,0.0,1,,0
+cl-00171,37,femenino,coahuila,8416.67,2025-04-07,18,4,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00172,49,masculino,queretaro,5833.33,2025-04-20,18,4,1,1,45000.0,255.0,suv electrica,email,4,3,1,0,0.0,0,45000.0,1
+cl-00173,61,femenino,puebla,5500.0,2025-05-29,17,3,1,0,0.0,,pickup electrica,directo,4,0,0,0,0.0,1,,0
+cl-00174,32,femenino,ciudad de mexico,7583.33,2025-01-30,15,3,1,0,0.0,,pickup electrica,email,4,2,1,0,0.0,1,,0
+cl-00175,68,masculino,sonora,6083.33,2025-05-18,25,5,1,1,65000.0,227.0,suv electrica,meta ads,5,0,0,0,0.0,0,65000.0,1
+cl-00176,35,masculino,coahuila,9166.67,2025-09-22,18,4,1,1,110000.0,100.0,suv electrica,meta ads,4,0,0,0,0.0,0,110000.0,1
+cl-00177,44,femenino,ciudad de mexico,5416.67,2025-06-24,20,4,0,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00178,48,femenino,ciudad de mexico,6666.67,2025-11-12,14,3,1,1,95000.0,49.0,pickup electrica,meta ads,4,0,0,0,0.0,0,95000.0,1
+cl-00179,27,masculino,nuevo leon,6833.33,2025-07-02,20,4,1,1,45000.0,182.0,suv electrica,meta ads,5,0,0,0,0.0,0,45000.0,1
+cl-00180,47,femenino,guanajuato,8833.33,2025-08-14,17,3,0,1,45000.0,139.0,suv electrica,directo,4,0,0,0,0.0,0,45000.0,1
+cl-00181,49,femenino,guanajuato,7000.0,2025-05-18,21,4,1,1,110000.0,227.0,suv electrica,organico,5,0,0,0,0.0,0,110000.0,1
+cl-00182,32,masculino,coahuila,5666.67,2025-01-07,14,3,0,0,0.0,,suv electrica,meta ads,4,0,0,0,0.0,1,,0
+cl-00183,47,masculino,puebla,2666.67,2025-09-07,20,4,0,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00184,33,femenino,chihuahua,7250.0,2025-04-04,25,5,1,1,65000.0,271.0,suv electrica,directo,5,0,0,0,0.0,0,65000.0,1
+cl-00185,38,femenino,guanajuato,10083.33,2025-09-12,18,4,1,1,45000.0,110.0,suv electrica,directo,4,0,0,0,0.0,0,45000.0,1
+cl-00186,46,masculino,nuevo leon,5250.0,2025-02-28,20,4,1,0,0.0,,suv electrica,organico,5,0,0,0,0.0,1,,0
+cl-00187,29,femenino,sonora,11416.67,2025-10-17,11,2,0,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00188,64,masculino,puebla,9666.67,2025-02-14,23,5,1,1,55000.0,320.0,suv electrica,directo,5,0,0,0,0.0,0,55000.0,1
+cl-00189,50,masculino,chihuahua,13000.0,2025-01-07,16,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00190,48,femenino,guanajuato,10166.67,2025-10-10,11,2,1,0,0.0,,suv electrica,meta ads,3,0,0,0,0.0,0,,0
+cl-00191,51,masculino,guanajuato,13250.0,2025-10-20,25,5,1,1,110000.0,72.0,suv electrica,directo,5,0,0,0,0.0,0,110000.0,1
+cl-00192,59,femenino,guanajuato,11583.33,2025-09-21,17,3,0,0,0.0,,pickup electrica,directo,4,0,0,0,0.0,1,,0
+cl-00193,40,femenino,chihuahua,4250.0,2025-10-26,11,2,1,0,0.0,,suv electrica,email,3,2,1,0,0.0,0,,0
+cl-00194,26,femenino,jalisco,7166.67,2025-12-04,18,4,1,1,95000.0,27.0,pickup electrica,directo,4,0,0,0,0.0,0,95000.0,1
+cl-00195,64,femenino,jalisco,8250.0,2025-04-29,21,4,1,0,0.0,,suv electrica,email,5,3,2,0,0.0,1,,0
+cl-00196,47,femenino,puebla,7250.0,2025-11-21,12,2,0,0,0.0,,suv electrica,email,3,2,1,0,0.0,0,,0
+cl-00197,50,femenino,sonora,3750.0,2025-12-10,15,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00198,26,masculino,guanajuato,8416.67,2025-09-20,18,4,1,1,55000.0,102.0,suv electrica,directo,4,0,0,0,0.0,0,55000.0,1
+cl-00199,67,masculino,ciudad de mexico,8500.0,2025-06-26,23,5,1,1,65000.0,188.0,suv electrica,email,5,4,2,0,0.0,0,65000.0,1
+cl-00200,58,masculino,chihuahua,5333.33,2025-12-25,6,1,1,0,0.0,,pickup electrica,directo,3,0,0,0,0.0,0,,0
+cl-00201,59,femenino,nuevo leon,3416.67,2025-01-18,20,4,1,0,0.0,,pickup electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00202,39,femenino,queretaro,11583.33,2025-08-30,12,2,1,0,0.0,,pickup electrica,meta ads,3,0,0,0,0.0,1,,0
+cl-00203,66,femenino,puebla,7250.0,2025-09-28,15,3,1,1,110000.0,94.0,suv electrica,meta ads,4,0,0,0,0.0,0,110000.0,1
+cl-00204,51,masculino,nuevo leon,3583.33,2025-02-25,18,4,1,0,0.0,,suv electrica,organico,4,0,0,0,0.0,1,,0
+cl-00205,59,femenino,puebla,9416.67,2025-11-18,18,4,0,1,95000.0,43.0,pickup electrica,directo,4,0,0,0,0.0,0,95000.0,1
+cl-00206,50,masculino,nuevo leon,6083.33,2025-05-03,11,2,1,1,110000.0,242.0,suv electrica,organico,3,0,0,0,0.0,0,110000.0,1
+cl-00207,60,femenino,ciudad de mexico,3333.33,2025-02-05,17,3,1,1,110000.0,329.0,suv electrica,directo,4,0,0,0,0.0,0,110000.0,1
+cl-00208,68,masculino,sonora,7916.67,2025-09-17,17,3,1,1,95000.0,105.0,pickup electrica,meta ads,4,0,0,0,0.0,0,95000.0,1
+cl-00209,32,femenino,ciudad de mexico,12250.0,2025-05-23,17,3,1,1,110000.0,222.0,suv electrica,meta ads,4,0,0,0,0.0,0,110000.0,1
+cl-00210,40,femenino,nuevo leon,4416.67,2025-04-26,19,4,1,0,0.0,,suv electrica,email,5,3,2,0,0.0,1,,0
+cl-00211,46,masculino,jalisco,9583.33,2025-05-20,19,4,1,1,95000.0,225.0,pickup electrica,email,5,3,2,0,0.0,0,95000.0,1
+cl-00212,32,masculino,nuevo leon,4250.0,2025-09-10,17,3,1,1,95000.0,112.0,pickup electrica,organico,4,0,0,0,0.0,0,95000.0,1
+cl-00213,54,femenino,guanajuato,7000.0,2025-12-20,20,4,1,0,0.0,,suv electrica,email,5,3,2,0,0.0,1,,0
+cl-00214,27,masculino,sonora,6666.67,2025-08-18,11,2,0,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00215,60,masculino,queretaro,9583.33,2025-07-27,25,5,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00216,53,masculino,puebla,8166.67,2025-03-31,14,3,0,0,0.0,,suv electrica,organico,4,0,0,0,0.0,1,,0
+cl-00217,32,femenino,jalisco,4916.67,2025-01-06,15,3,1,1,95000.0,359.0,pickup electrica,directo,4,0,0,0,0.0,0,95000.0,1
+cl-00218,63,femenino,sonora,6666.67,2025-03-30,15,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00219,47,femenino,nuevo leon,6166.67,2025-04-23,24,5,1,1,45000.0,252.0,suv electrica,meta ads,5,0,0,0,0.0,0,45000.0,1
+cl-00220,34,masculino,coahuila,7750.0,2025-05-03,15,3,0,0,0.0,,pickup electrica,email,4,2,1,0,0.0,1,,0
+cl-00221,58,masculino,queretaro,7000.0,2025-05-23,14,3,1,0,0.0,,suv electrica,email,4,2,1,0,0.0,1,,0
+cl-00222,47,femenino,estado de mexico,6083.33,2025-09-21,10,2,0,0,0.0,,suv electrica,directo,3,0,0,0,0.0,0,,0
+cl-00223,26,femenino,estado de mexico,13416.67,2025-11-09,17,3,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00224,41,femenino,chihuahua,6250.0,2025-02-01,20,4,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00225,59,masculino,queretaro,6666.67,2025-07-18,21,4,1,0,0.0,,suv electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00226,35,masculino,puebla,8000.0,2025-01-31,25,5,1,0,0.0,,suv electrica,meta ads,5,0,0,0,0.0,1,,0
+cl-00227,41,masculino,ciudad de mexico,9916.67,2025-02-14,18,4,1,1,65000.0,320.0,suv electrica,directo,4,0,0,0,0.0,0,65000.0,1
+cl-00228,55,femenino,estado de mexico,6666.67,2025-12-10,21,4,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00229,66,masculino,sonora,10666.67,2025-10-08,24,5,1,1,55000.0,84.0,suv electrica,email,5,4,2,0,0.0,0,55000.0,1
+cl-00230,68,masculino,queretaro,7250.0,2025-06-17,18,4,1,1,45000.0,197.0,suv electrica,email,4,3,1,0,0.0,0,45000.0,1
+cl-00231,63,masculino,sonora,5916.67,2025-10-13,25,5,1,1,45000.0,79.0,suv electrica,organico,5,0,0,0,0.0,0,45000.0,1
+cl-00232,27,femenino,sonora,12416.67,2025-05-31,19,4,1,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00233,50,femenino,jalisco,12250.0,2025-05-25,18,4,1,0,0.0,,pickup electrica,meta ads,4,0,0,0,0.0,1,,0
+cl-00234,43,femenino,nuevo leon,10000.0,2025-09-10,18,4,1,1,95000.0,112.0,pickup electrica,meta ads,4,0,0,0,0.0,0,95000.0,1
+cl-00235,48,masculino,puebla,8166.67,2025-03-28,20,4,1,1,45000.0,278.0,suv electrica,meta ads,5,0,0,0,0.0,0,45000.0,1
+cl-00236,44,femenino,jalisco,7750.0,2025-10-08,16,3,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00237,26,femenino,sonora,7916.67,2025-08-12,23,5,1,1,45000.0,141.0,suv electrica,email,5,4,2,0,0.0,0,45000.0,1
+cl-00238,63,masculino,puebla,9583.33,2025-08-03,13,3,0,0,0.0,,suv electrica,directo,4,0,0,0,0.0,1,,0
+cl-00239,57,masculino,estado de mexico,5416.67,2025-10-07,25,5,1,0,0.0,,suv electrica,directo,5,0,0,0,0.0,1,,0
+cl-00240,68,masculino,jalisco,7833.33,2025-05-15,23,5,0,0,0.0,,pickup electrica,organico,5,0,0,0,0.0,1,,0
